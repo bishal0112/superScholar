@@ -1,0 +1,19 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"description": "Super Scholar Assignment",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"start": "node server.js"
+	},
+	"author": "Bishal",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1"
+	},
+	"devDependencies": {
+		"jest": "^28.1.0",
+		"supertest": "^6.2.3"
+	}
+}
